@@ -5,7 +5,7 @@ This library is part of MJNET Project, a Lightweight and Self-Configuration Prot
 
 it is a fork of https://github.com/r2aiv/NRF24L01-1 (TNX @r2aiv).
 it has some improvement including:
-* Add nRF Timeout for freeze prventing
+* Add nRF Timeout for freeze preventing
 * Seperate pip addresses for working and initializing
 
 I hope be useful. :)
